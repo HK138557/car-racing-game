@@ -1,2 +1,5 @@
-# car-racing-game
-A student designing a maths car racing game for kids
+# maths car-racing-game
+I am a student designing a maths car racing game for kids. My project has more to it in terms of backend but i have attached the frontend here. The game functions as a normal top down car racing game with simple mechanics, but every few seconds there is a popup with a maths question and answer box. Although I will add to this later, right now I have set it up so that if a user answers a question correctly, their score in scoreElement (the score box in the top left corner) will double. I am able to retrieve the updated score which is doubled and verify that this works using console log checks. However, the problem is that this doubled score doesnt show on the scoreElement box, and it remains the same as before the popup (assume I'm only worried about correct answers right now). Can someone help me to figure out where I'm going wrong? I'm pretty sure its something to do with either the Play() and or the Animation() functions in game.js. You are welcome to run my code, although ofc you will need to import your own images to properly visualise the simple frontend gameplay. 
+
+To anyone that helps,
+thanks a lot for taking out the time to go over this, its super helpful for me.
